@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CLASS AAJTAK || NOTICE</string>
+    <array name="genres">
+        <item>Examination</item>
+        <item>Class Cancellation</item>
+        <item>Seminar</item>
+        <item>Events</item>
+        <item>Others</item>
+    </array>
+</resources>
